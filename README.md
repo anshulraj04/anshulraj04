@@ -29,11 +29,6 @@ I'm a passionate **Frontend Developer** from India, currently diving deep into t
 - Figma (for UI design)
 - Vercel / Netlify (for deployment)
 
-## 📈 GitHub Stats
-
-![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulraj04&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulraj04&layout=compact&theme=radical)
-
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/anshul-raj-853745250/)
