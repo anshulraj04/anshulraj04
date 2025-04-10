@@ -38,7 +38,7 @@ I'm a passionate **Frontend Developer** from India, currently diving deep into t
 
 - [LinkedIn](https://www.linkedin.com/in/anshul-raj-853745250/)
 - [Portfolio](https://anshulraj04.github.io/PERSONAL-PORTFOLIO/)
-- 📧 anshulraj24pvt@gmail.com
+
 
 ---
 
